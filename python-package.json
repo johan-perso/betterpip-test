@@ -5,5 +5,8 @@
   "mainFile": "index.py",
   "globalCommands": [
     "pytest"
-  ]
+  ],
+  "dependencies": {
+    "pychalk": "*"
+  }
 }
